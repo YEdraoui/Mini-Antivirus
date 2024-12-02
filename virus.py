@@ -33,4 +33,4 @@ while True:
             f.write("\nMalicious content added!")
         print(f"Modified file: {existing_file}")
 
-    time.sleep(5)  # Pause before repeating actions
+    time.sleep(5)  
